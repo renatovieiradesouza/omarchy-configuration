@@ -1,0 +1,10 @@
+# Ativar
+
+Salvar arquivo frases.service em ~/.config/systemd/user/frases.service
+Salvar arquivo frases.timer em ~/.config/systemd/user/frases.timer
+systemctl --user daemon-reload
+systemctl --user enable --now frases.timer
+
+# Como testar
+systemctl --user start frases.service
+systemctl --user status frases.service - deve retornar como inactive  dead

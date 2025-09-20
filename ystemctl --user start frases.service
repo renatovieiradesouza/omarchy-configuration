@@ -1,0 +1,92 @@
+Sep 20 12:16:23 omarchy systemd[1212]: Starting Atualiza placeholder_text com versículo do dia...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 132658.[0m
+Sep 20 12:16:23 omarchy (iaria.sh)[1266909]: [0;1;39m[0;1;31m[0;1;39mfrases.service: Unable to locate executable '/home/renato~/.config/hypr/frase-diaria.sh': No such file or directory[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /home/renato~/.config/hypr/frase-diaria.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /home/renato~/.config/hypr/frase-diaria.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is 2.[0m
+Sep 20 12:16:23 omarchy (iaria.sh)[1266909]: [0;1;31m[0;1;39m[0;1;31mfrases.service: Failed at step EXEC spawning /home/renato~/.config/hypr/frase-diaria.sh: No such file or directory[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /home/renato~/.config/hypr/frase-diaria.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /home/renato~/.config/hypr/frase-diaria.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is 2.[0m
+Sep 20 12:16:23 omarchy systemd[1212]: [0;1;39m[0;1;31m[0;1;39mfrases.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Sep 20 12:16:23 omarchy systemd[1212]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mfrases.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Sep 20 12:16:23 omarchy systemd[1212]: [0;1;31m[0;1;39m[0;1;31mFailed to start Atualiza placeholder_text com versículo do dia.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 132658 and the job result is failed.[0m
+Sep 20 12:19:40 omarchy systemd[1212]: Starting Atualiza placeholder_text com versículo do dia...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 132791.[0m
+Sep 20 12:19:40 omarchy (iaria.sh)[1268047]: [0;1;39m[0;1;31m[0;1;39mfrases.service: Unable to locate executable '/home/renato~/.config/hypr/frase-diaria.sh': No such file or directory[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /home/renato~/.config/hypr/frase-diaria.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /home/renato~/.config/hypr/frase-diaria.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is 2.[0m
+Sep 20 12:19:40 omarchy (iaria.sh)[1268047]: [0;1;31m[0;1;39m[0;1;31mfrases.service: Failed at step EXEC spawning /home/renato~/.config/hypr/frase-diaria.sh: No such file or directory[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /home/renato~/.config/hypr/frase-diaria.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /home/renato~/.config/hypr/frase-diaria.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is 2.[0m
+Sep 20 12:19:40 omarchy systemd[1212]: [0;1;39m[0;1;31m[0;1;39mfrases.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit UNIT has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Sep 20 12:19:40 omarchy systemd[1212]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185mfrases.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit UNIT has entered the 'failed' state with result 'exit-code'.[0m
+Sep 20 12:19:40 omarchy systemd[1212]: [0;1;31m[0;1;39m[0;1;31mFailed to start Atualiza placeholder_text com versículo do dia.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit UNIT has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: https://lists.freedesktop.org/mailman/listinfo/systemd-devel[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit UNIT has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 132791 and the job result is failed.[0m

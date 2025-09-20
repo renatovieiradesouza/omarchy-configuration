@@ -1,0 +1,6 @@
+[Unit]
+Description=Atualiza placeholder_text com versículo do dia
+
+[Service]
+Type=oneshot
+ExecStart=%h~/.config/hypr/frase-diaria.sh
